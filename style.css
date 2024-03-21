@@ -49,7 +49,7 @@ header{
 
  /* cartTab  */
 .cartTab{
-    background-color: #353432;/*change to green*/
+    background-color: green;/*change to green or #353432*/
     color: white;
     width: 400px;
     max-width: 100%;
